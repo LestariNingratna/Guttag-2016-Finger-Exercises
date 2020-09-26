@@ -8,7 +8,13 @@ if x%2!=0 and y%2!=0 and z%2!=0:
 elif x%2==0 and y%2==0 and z%2==0:
  print('None of them are odd number')
 else:
- if x%2==0:
+ if x%2==0 and y%2==0:
+  print('x and y are not odd number')
+ elif x%2==0 and z%2==0:
+  print('x and z are not odd number')
+ elif y%2==0 and z%2==0:
+  print('y and z are not odd number')
+ elif x%2==0:
   print('x is not an odd number')
  elif y%2==0:
   print('y is not an odd number')
