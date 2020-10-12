@@ -8,5 +8,5 @@ Questions answered so far:
 Replace the comment in the following code with a while loop.<br />
 `numXs = int(input('How many times should I print the letter X? '))`<br />
 `toPrint = ''`<br />
-#concatenate X to `toPrint numXs` times<br />
+#concatenate `X` to `toPrint` `numXs` times<br />
 `print(toPrint)`
