@@ -1,4 +1,4 @@
-# ICPUP
+# Guttag-2016-Finger-Exercises
 
 Introduction to Computation and Programming Using Python by John V. Guttag.
 
