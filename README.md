@@ -6,7 +6,4 @@ This repository is the collection of my answers for all 'Finger Exercises' from 
 I suggest you to read the book and try it yourself before reading my answers :)
 
 # 2.4 Replace the comment in the following code with a while loop.
-numXs = int(input('How many times should I print the letter X? '))
-toPrint = ''
-#concatenate X to toPrint numXs times
-print(toPrint)
+numXs = int(input('How many times should I print the letter X? '))  toPrint = ''  #concatenate X to toPrint numXs times  print(toPrint)
