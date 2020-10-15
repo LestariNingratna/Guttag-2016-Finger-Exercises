@@ -1,0 +1,9 @@
+s = '1.23,2.4,3.123'
+sInt = []
+total = 0
+
+for i in s:
+    if i in '123456789':
+        sInt.append(int(i))
+
+print(sum(sInt))
