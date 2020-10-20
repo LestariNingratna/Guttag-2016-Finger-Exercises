@@ -19,3 +19,6 @@ Write a program that asks the user to input to integers, and then prints the lar
 Let s be a string that contains a sequence of decimal numbers
 separated by commas, e.g., s = '1.23,2.4,3.123'. Write a program that prints the
 sum of the numbers in s.
+
+<b>3.3 Finger Exercise<br /></b>
+What would have to be changed to make the code in Figure #3.4 work for finding an approximation to the cube root of both negative and #positive numbers? (Hint: think about changing low to ensure that the answer #lies within the region being searched.)
